@@ -1,6 +1,9 @@
 # Dependencies
 node_modules
 
+# Caches
+.turbo
+
 # Linux
 .directory
 .fuse_hidden*
