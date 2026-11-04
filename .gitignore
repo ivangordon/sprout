@@ -1,3 +1,6 @@
+# Dependencies
+node_modules
+
 # Linux
 .directory
 .fuse_hidden*
